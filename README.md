@@ -1,4 +1,6 @@
-# Cypress example with Typescript and Cucumber
+# Summary
+
+This project consist on some gherkin Cypress tests written in Typescript with the help of cypress-cucumber-preprocessor
 
 # VSCode Plugins
 
