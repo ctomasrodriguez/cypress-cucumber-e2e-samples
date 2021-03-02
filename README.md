@@ -33,6 +33,12 @@ In this basic example, we have this _Hello World.feature_ where we have defined 
 
 A basic example with Given - When - Then and showing how to pass data to the steps
 
+## Shared Steps
+
+An example showing how to build features using shared steps.
+
+All shared by default must be included in the _common_ subfolder, in this example _cypress/integration/common_
+
 ## Login
 
 I have this example where I have one feature with two scenarios: valid login and invalid login.
