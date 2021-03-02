@@ -25,9 +25,13 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=alexkre
 
 In case you don't know about Gherkin keywords you can read about them [here](https://cucumber.io/docs/gherkin/reference/)
 
-## Hello World feature
+## Hello World
 
 In this basic example, we have this _Hello World.feature_ where we have defined a very basic feature consisting in only two basic steps that assert nothing. That steps are located in a folder with the same name as the feature _cypress/integration/Hello World/helloWorld.ts_ . Inside the folder typescript file names doesn't really matters.
+
+## Counter
+
+A basic example with Given - When - Then and showing how to pass data to the steps
 
 ## Login
 
