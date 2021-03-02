@@ -49,7 +49,10 @@ If you see function login, you can see that it takes the values from environment
 
 # How to run this tests
 
-Execute _npm run cypress_
+Execute:
+
+- npm ci
+- npm run cypress
 
 # How to write more tests
 
