@@ -33,6 +33,10 @@ In this basic example, we have this _Hello World.feature_ where we have defined 
 
 A basic example with Given - When - Then and showing how to pass data to the steps
 
+## DuckDuckGo
+
+A basic example querying DuckDuckGo search engine
+
 ## Shared Steps
 
 An example showing how to build features using shared steps.
