@@ -43,6 +43,10 @@ An example showing how to build features using shared steps.
 
 All shared by default must be included in the _common_ subfolder, in this example _cypress/integration/common_
 
+## Hdiv
+
+I'm working at [Hdiv security](https://hdivsecurity.com/) (great company if you ask me ;) ) and it's mandatory for me to develop at least one example where you can log in and check a failed login in the web console.
+
 ## Login
 
 I have this example where I have one feature with two scenarios: valid login and invalid login.
